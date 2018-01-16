@@ -1,1 +1,1 @@
-# jim-emacs-fun-hy-lisp
+# Lisp deep learning by hylang
